@@ -1,11 +1,9 @@
-﻿"use client";
+'use client';
 
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check } from 'lucide-react';
 import { useState } from 'react';
 import './moodcard.css';
-import { useState } from "react";
-import { Check } from "lucide-react";
 
 interface Mood {
   id: string;
@@ -31,13 +29,13 @@ interface MoodCardProps {
   onSelect: () => void;
 }
 
-export function MoodCard({
-  mood,
-  index,
-  isSelected,
-  onSelect,
-}: MoodCardProps) {
-  const [isHovered, setIsHovered] = useState(false);
+export function MoodCard({ mood, index, isSelected, onSelect }: MoodCardProps) {
+  const [emojiDuration, setEmojiDuration] = useState(4);
+
+  useEffect(() => {
+
+    setEmojiDuration(4 + Math.random() * 2);
+  }, []);
 
   return (
     <motion.div

@@ -294,6 +294,16 @@ interface Orb {
 
 export default function Home() {
   const [selectedMoods, setSelectedMoods] = useState<string[]>([]);
+  useEffect(() => {
+  const savedMoods = localStorage.getItem("selectedMoods");
+  if (savedMoods) {
+    setSelectedMoods(JSON.parse(savedMoods));
+  }
+}, []);
+  useEffect(() => {
+  localStorage.setItem("selectedMoods", JSON.stringify(selectedMoods));
+}, [selectedMoods]);
+
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<boolean>(false);
   const maxSelections = 3;
@@ -325,7 +335,18 @@ export default function Home() {
   };
 
   useEffect(() => {
-    fetchData();
+
+    setOrbs(Array.from({ length: 8 }, (_, i) => ({
+      id: i,
+      color: ['#FF6B6B', '#4ECDC4', '#45B7D1', '#96CEB4', '#FFEAA7', '#DDA0DD', '#98D8C8', '#F7DC6F'][i],
+      width: Math.random() * 300 + 100,
+      height: Math.random() * 300 + 100,
+      left: Math.random() * 100,
+      top: Math.random() * 100,
+      x: Math.random() * 100 - 50,
+      y: Math.random() * 100 - 50,
+      duration: 8 + Math.random() * 4
+    })));
   }, []);
 
   return (
