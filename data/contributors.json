@@ -4,21 +4,21 @@
     "id": 181471078,
     "avatar_url": "https://avatars.githubusercontent.com/u/181471078?v=4",
     "html_url": "https://github.com/Nitya-003",
-    "contributions": 151,
+    "contributions": 152,
     "name": "Nitya Gosain",
     "bio": ".",
     "blog": "",
     "twitter_username": null,
     "location": null,
     "public_repos": 19,
-    "followers": 43
+    "followers": 44
   },
   {
     "login": "rishima17",
     "id": 195285937,
     "avatar_url": "https://avatars.githubusercontent.com/u/195285937?v=4",
     "html_url": "https://github.com/rishima17",
-    "contributions": 63,
+    "contributions": 64,
     "name": "Rishima",
     "bio": "B.Tech CSE'28 || Full-Stack Developer ||  Java  || Open Source Contributor\r\n",
     "blog": "https://rishima-portfolio.vercel.app/",
@@ -74,7 +74,7 @@
     "id": 181780004,
     "avatar_url": "https://avatars.githubusercontent.com/u/181780004?v=4",
     "html_url": "https://github.com/navin-oss",
-    "contributions": 19,
+    "contributions": 21,
     "name": "Navin  Karavade",
     "bio": "Aspiring Software Engineer specializing in AI/ML 🤖 and Data Science 📊.  \r\nSkilled in Python 🐍, C 💻, Java, HTML 🎨, and CSS ✨.\r\n",
     "blog": "",
@@ -88,7 +88,7 @@
     "id": 138315543,
     "avatar_url": "https://avatars.githubusercontent.com/u/138315543?v=4",
     "html_url": "https://github.com/RIYAKUMARI001",
-    "contributions": 16,
+    "contributions": 19,
     "name": "Riya kumari 01",
     "bio": null,
     "blog": "",
@@ -192,7 +192,7 @@
     "blog": "http://arunng2004.github.io/",
     "twitter_username": null,
     "location": null,
-    "public_repos": 67,
+    "public_repos": 68,
     "followers": 16
   },
   {
@@ -207,7 +207,7 @@
     "twitter_username": null,
     "location": "Bhubaneswar, Odisha",
     "public_repos": 66,
-    "followers": 40
+    "followers": 39
   },
   {
     "login": "Aditya-18849",
@@ -238,18 +238,32 @@
     "followers": 4
   },
   {
-    "login": "NithinRegidi",
-    "id": 147417565,
-    "avatar_url": "https://avatars.githubusercontent.com/u/147417565?v=4",
-    "html_url": "https://github.com/NithinRegidi",
+    "login": "google-labs-jules[bot]",
+    "id": 161369871,
+    "avatar_url": "https://avatars.githubusercontent.com/in/842251?v=4",
+    "html_url": "https://github.com/apps/google-labs-jules",
     "contributions": 4,
     "name": null,
     "bio": null,
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 17,
-    "followers": 1
+    "public_repos": 0,
+    "followers": 0
+  },
+  {
+    "login": "omkarhole",
+    "id": 182200831,
+    "avatar_url": "https://avatars.githubusercontent.com/u/182200831?v=4",
+    "html_url": "https://github.com/omkarhole",
+    "contributions": 4,
+    "name": "Omkar",
+    "bio": "Full Stack Developer and CS student building real-world web apps with the MERN stack and clean code.",
+    "blog": "https://portfolio-gamma-smoky-11.vercel.app/",
+    "twitter_username": null,
+    "location": "india",
+    "public_repos": 58,
+    "followers": 10
   },
   {
     "login": "ayushkumar2601",
@@ -266,32 +280,18 @@
     "followers": 22
   },
   {
-    "login": "omkarhole",
-    "id": 182200831,
-    "avatar_url": "https://avatars.githubusercontent.com/u/182200831?v=4",
-    "html_url": "https://github.com/omkarhole",
-    "contributions": 4,
-    "name": "Omkar",
-    "bio": "Full Stack Developer and CS student building real-world web apps with the MERN stack and clean code.",
-    "blog": "https://portfolio-gamma-smoky-11.vercel.app/",
-    "twitter_username": null,
-    "location": "india",
-    "public_repos": 57,
-    "followers": 10
-  },
-  {
-    "login": "google-labs-jules[bot]",
-    "id": 161369871,
-    "avatar_url": "https://avatars.githubusercontent.com/in/842251?v=4",
-    "html_url": "https://github.com/apps/google-labs-jules",
+    "login": "NithinRegidi",
+    "id": 147417565,
+    "avatar_url": "https://avatars.githubusercontent.com/u/147417565?v=4",
+    "html_url": "https://github.com/NithinRegidi",
     "contributions": 4,
     "name": null,
     "bio": null,
     "blog": "",
     "twitter_username": null,
     "location": null,
-    "public_repos": 0,
-    "followers": 0
+    "public_repos": 17,
+    "followers": 1
   },
   {
     "login": "GandrothuNagaSaiRishitha",
@@ -308,18 +308,18 @@
     "followers": 8
   },
   {
-    "login": "parthsahay24",
-    "id": 118983535,
-    "avatar_url": "https://avatars.githubusercontent.com/u/118983535?v=4",
-    "html_url": "https://github.com/parthsahay24",
+    "login": "actions-user",
+    "id": 65916846,
+    "avatar_url": "https://avatars.githubusercontent.com/u/65916846?v=4",
+    "html_url": "https://github.com/actions-user",
     "contributions": 2,
-    "name": "Parth Sahay",
+    "name": null,
     "bio": null,
-    "blog": "",
+    "blog": "https://github.com/actions",
     "twitter_username": null,
     "location": null,
-    "public_repos": 17,
-    "followers": 0
+    "public_repos": 0,
+    "followers": 4388
   },
   {
     "login": "udaykiran243",
@@ -334,6 +334,20 @@
     "location": "India",
     "public_repos": 43,
     "followers": 7
+  },
+  {
+    "login": "parthsahay24",
+    "id": 118983535,
+    "avatar_url": "https://avatars.githubusercontent.com/u/118983535?v=4",
+    "html_url": "https://github.com/parthsahay24",
+    "contributions": 2,
+    "name": "Parth Sahay",
+    "bio": null,
+    "blog": "",
+    "twitter_username": null,
+    "location": null,
+    "public_repos": 17,
+    "followers": 0
   },
   {
     "login": "akshay0611",
